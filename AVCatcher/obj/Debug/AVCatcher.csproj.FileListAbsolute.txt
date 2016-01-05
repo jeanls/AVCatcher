@@ -1,0 +1,13 @@
+c:\users\jeand\documents\visual studio 2015\Projects\AVCatcher\AVCatcher\bin\Debug\AVCatcher.exe.config
+c:\users\jeand\documents\visual studio 2015\Projects\AVCatcher\AVCatcher\obj\Debug\AVCatcher.csprojResolveAssemblyReference.cache
+c:\users\jeand\documents\visual studio 2015\Projects\AVCatcher\AVCatcher\obj\Debug\AVCatcher.Form1.resources
+c:\users\jeand\documents\visual studio 2015\Projects\AVCatcher\AVCatcher\obj\Debug\AVCatcher.Properties.Resources.resources
+c:\users\jeand\documents\visual studio 2015\Projects\AVCatcher\AVCatcher\obj\Debug\AVCatcher.csproj.GenerateResource.Cache
+c:\users\jeand\documents\visual studio 2015\Projects\AVCatcher\AVCatcher\bin\Debug\AVCatcher.exe
+c:\users\jeand\documents\visual studio 2015\Projects\AVCatcher\AVCatcher\bin\Debug\AVCatcher.pdb
+c:\users\jeand\documents\visual studio 2015\Projects\AVCatcher\AVCatcher\bin\Debug\Newtonsoft.Json.dll
+c:\users\jeand\documents\visual studio 2015\Projects\AVCatcher\AVCatcher\bin\Debug\YoutubeExtractor.dll
+c:\users\jeand\documents\visual studio 2015\Projects\AVCatcher\AVCatcher\bin\Debug\Newtonsoft.Json.xml
+c:\users\jeand\documents\visual studio 2015\Projects\AVCatcher\AVCatcher\bin\Debug\YoutubeExtractor.xml
+c:\users\jeand\documents\visual studio 2015\Projects\AVCatcher\AVCatcher\obj\Debug\AVCatcher.exe
+c:\users\jeand\documents\visual studio 2015\Projects\AVCatcher\AVCatcher\obj\Debug\AVCatcher.pdb
