@@ -11,3 +11,20 @@ c:\users\jeand\documents\visual studio 2015\Projects\AVCatcher\AVCatcher\bin\Deb
 c:\users\jeand\documents\visual studio 2015\Projects\AVCatcher\AVCatcher\bin\Debug\YoutubeExtractor.xml
 c:\users\jeand\documents\visual studio 2015\Projects\AVCatcher\AVCatcher\obj\Debug\AVCatcher.exe
 c:\users\jeand\documents\visual studio 2015\Projects\AVCatcher\AVCatcher\obj\Debug\AVCatcher.pdb
+C:\Users\jeand\Documents\AVCatcher\AVCatcher\bin\Debug\AVCatcher.exe.config
+C:\Users\jeand\Documents\AVCatcher\AVCatcher\obj\Debug\AVCatcher.exe
+C:\Users\jeand\Documents\AVCatcher\AVCatcher\obj\Debug\AVCatcher.pdb
+C:\Users\jeand\Documents\AVCatcher\AVCatcher\bin\Debug\AVCatcher.exe
+C:\Users\jeand\Documents\AVCatcher\AVCatcher\bin\Debug\AVCatcher.pdb
+C:\Users\jeand\Documents\AVCatcher\AVCatcher\bin\Debug\MetroFramework.Design.dll
+C:\Users\jeand\Documents\AVCatcher\AVCatcher\bin\Debug\MetroFramework.dll
+C:\Users\jeand\Documents\AVCatcher\AVCatcher\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\jeand\Documents\AVCatcher\AVCatcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jeand\Documents\AVCatcher\AVCatcher\bin\Debug\YoutubeExtractor.dll
+C:\Users\jeand\Documents\AVCatcher\AVCatcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jeand\Documents\AVCatcher\AVCatcher\bin\Debug\YoutubeExtractor.xml
+C:\Users\jeand\Documents\AVCatcher\AVCatcher\obj\Debug\AVCatcher.csprojResolveAssemblyReference.cache
+C:\Users\jeand\Documents\AVCatcher\AVCatcher\obj\Debug\AVCatcher.DownloadForm.resources
+C:\Users\jeand\Documents\AVCatcher\AVCatcher\obj\Debug\AVCatcher.Form1.resources
+C:\Users\jeand\Documents\AVCatcher\AVCatcher\obj\Debug\AVCatcher.Properties.Resources.resources
+C:\Users\jeand\Documents\AVCatcher\AVCatcher\obj\Debug\AVCatcher.csproj.GenerateResource.Cache
